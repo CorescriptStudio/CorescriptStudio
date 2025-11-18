@@ -2,7 +2,7 @@
 Frontend Developer | WordPress Expert | Animation Creator
 👋 Welcome to My Coding Universe
 
-I am Corescript Studio, a passionate developer who loves transforming ideas into smooth, modern, and functional digital experiences.
+I am Web Expert, a passionate developer who loves transforming ideas into smooth, modern, and functional digital experiences.
 My work focuses on crafting clean UI, beautiful animations, and performance-driven web interfaces using the latest web technologies.
 
 I aim to build websites and mini-projects that are:
